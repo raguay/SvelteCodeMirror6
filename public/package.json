@@ -1,0 +1,22 @@
+{
+  "name": "sveltecodemirror",
+  "description": "A test env for Svelte Codemirror component.",
+  "license": "mit",
+  "version": "1.0.0",
+  "window": {
+    "height": 500,
+    "show_in_taskbar": true,
+    "id": "scriptpad",
+    "frame": true,
+    "width": 1530,
+    "show": true,
+    "transparent": false
+  },
+  "node-remote": "<all_urls>",
+  "devDependencies": {},
+  "nodejs": true,
+  "dependencies": {
+  },
+  "main": "index.html",
+  "optionalDependencies": {}
+}
